@@ -58,7 +58,7 @@ Etape3 : Activer GitHub Pages du site
 2. Clique sur Settings (en haut).
 3. Dans le menu à gauche, va dans Pages.
 4. Sous "Branch", choisis **main et clique sur Save.
-Après ça ton site sera accessible sur : https://ton-utilisateur.github.io/mon-site/
+Après ça ton site sera accessible sur : https://github.com/Marie685/aglete_mariella_projet_cuisine_groupe_2.git
 
 Personnaliser le site avec un thème (optionnel)
 Si tu veux utiliser un thème pour ton site, tu peux ajouter un fichier \_config.yml avec :
